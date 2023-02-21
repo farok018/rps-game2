@@ -2,7 +2,9 @@
 public class myfile {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+System.out.println("checking welcome ant");
+System.out.println("Testing Maven with poll scm");
 
 	}
 
